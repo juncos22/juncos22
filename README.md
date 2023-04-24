@@ -74,19 +74,17 @@
 
 <h3><strong>Mis Estadisticas</strong></h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=juncos22&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-juncos22-stats.vercel.app/api/top-langs?username=juncos22&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="juncos22" 
     bg_color=#808080/></p>
 
-
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juncos22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-juncos22-stats.vercel.app/api?username=juncos22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juncos22&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="juncos22" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juncos22&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 [Nicolas](https://github.com/juncos22)
