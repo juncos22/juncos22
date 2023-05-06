@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nicolas</h1>
-<h3 align="center">👨‍💻Analista Programador - FullStack Developer👨‍💻.</h3>
+<h3 align="center">👨‍💻Analista Programador - FullStack Developer👨‍💻</h3>
 
 <br>
 
