@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Nicolas</h1>
 <h3 align="center">👨‍💻Analista Programador - FullStack Developer👨‍💻</h3>
-<h4 align="center">
+<!-- <h4 align="center">
     👨‍💻Tambien estoy en <a href='https://gitlab.innevo.cl/njuncos' target="_blank">GitLab</a>!👨‍💻
-</h4> 
+</h4>  -->
 <br>
 
 <p align="right"> <h3>Profile Views </h3> <img src="https://komarev.com/ghpvc/?username=juncos22&label=Profile%20views&color=0e75b6&style=flat"
